@@ -1,0 +1,8 @@
+﻿  Source.cpp
+D:\Лабораторна №4.4\Project1\Project1\Source.cpp(20,6): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Лабораторна №4.4\Project1\Project1\Source.cpp(24,15): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Лабораторна №4.4\Project1\Project1\Source.cpp(27,13): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Лабораторна №4.4\Project1\Project1\Source.cpp(30,10): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Лабораторна №4.4\Project1\Project1\Source.cpp(33,26): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Лабораторна №4.4\Project1\Project1\Source.cpp(40,10): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  Project1.vcxproj -> D:\Лабораторна №4.4\Project1\Debug\Project1.exe
